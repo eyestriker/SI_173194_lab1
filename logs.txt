@@ -1,0 +1,6 @@
+commit c4b712e8effbae203dba0a52d86fa4748515e5a6 (HEAD -> logs, master)
+Author: unknown <Alek.Ampovski@students.finki.ukim.mk>
+Date:   Tue Apr 16 16:40:12 2019 +0200
+
+    Initial commit
+
